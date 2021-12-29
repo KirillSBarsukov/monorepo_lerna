@@ -1,6 +1,6 @@
-import { Alpha } from "@nifanic-play/alpha";
-import { Beta } from "@nifanic-play/beta";
-import { Gamma } from "@nifanic-play/gamma";
+import { Alpha } from "@kirillsbarsukov/alpha";
+import { Beta } from "@kirillsbarsukov/beta";
+import { Gamma } from "@kirillsbarsukov/gamma";
 
 console.log(new Alpha());
 console.log(new Beta());
