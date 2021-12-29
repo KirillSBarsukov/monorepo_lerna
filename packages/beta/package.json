@@ -8,6 +8,7 @@
   "main": "lib/index",
   "types": "lib/index",
   "publishConfig": {
+    "access": "public",
     "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
