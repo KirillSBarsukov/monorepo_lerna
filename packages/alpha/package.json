@@ -19,5 +19,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KirillSBarsukov/monorepo_lerna.git"
-  }
+  },
+  "gitHead": "756573e88afddf335c87b747160dd48065014c71"
 }
