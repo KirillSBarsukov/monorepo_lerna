@@ -1,6 +1,6 @@
 {
   "name": "core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Core module to check published packages",
   "author": "nifanic <nifanic@masterpage.net>",
   "license": "ISC",
