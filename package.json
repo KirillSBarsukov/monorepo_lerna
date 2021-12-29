@@ -1,6 +1,6 @@
 {
   "name": "monorepo_lerna",
-  "private": true,
+  "private": false,
   "devDependencies": {
     "@types/node": "^14.0.1",
     "lerna": "^3.21.0",
